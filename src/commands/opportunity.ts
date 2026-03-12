@@ -72,6 +72,7 @@ function opportunityDetail(o: Opportunity): string {
 export function registerOpportunityCommands(program: Command): void {
   const opp = program
     .command("opportunity")
+    .alias("oppty")
     .description("Manage opportunities");
 
   opp.command("list")
