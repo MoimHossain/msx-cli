@@ -154,7 +154,7 @@ Use the Resource Owner Password Credentials flow directly with user's email and 
 **User Experience:**
 ```
 $ msx-cli login
-📧 Username: moi.hossain@microsoft.com
+📧 Username: john.doe@microsoft.com
 🔑 Password: ********
 ✅ Signed in successfully.
 ```
